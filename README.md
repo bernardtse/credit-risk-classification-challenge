@@ -15,9 +15,9 @@ This challenge uses various techniques to train and evaluate a supervised machin
 ## 2. Repository, Setup and Execution
 
 ### This repository contains:
-- [`credit_risk/credit_risk_classification.ipynb`](credit_risk/credit_risk_classification.ipynb): a jupyter notebook that contains all the necessary codes.
-- [`credit_risk/resources/`](credit_risk/resources): folder containing the data files used
-- [`REPORT.md`](REPORT.md)
+- [`credit_risk/credit_risk_classification.ipynb`](credit_risk/credit_risk_classification.ipynb) - A Jupyter notebook that contains all the necessary codes
+- [`credit_risk/resources/`](credit_risk/resources) - Folder containing the data files used
+- `REPORT.md`
 
 ### To start: 
 - Clone this GitHub repository to a local folder.
